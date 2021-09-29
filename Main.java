@@ -1,7 +1,7 @@
 public class Main
 {
   private static final int exactness = 100_000;
-  private static final int antiOwerflowExactness = 8_000;
+  private static final int antiOverflowExactness = 8_000;
   
   public static void main(String[] args) 
   {
